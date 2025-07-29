@@ -11,6 +11,10 @@ Starship is a minimal, blazing-fast, and customizable prompt for any shell.
 ```bash
 sudo dnf install starship
 ```
+Or if that doesn't work
+```bash
+curl -sS https://starship.rs/install.sh | sh
+```
 
 Once installed, this repo includes a custom Starship configuration:
 
