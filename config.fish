@@ -5,6 +5,7 @@ if status is-interactive
     # Abbreviations (better than aliases)
     abbr -a update "sudo dnf update"
     abbr -a upgrade "sudo dnf upgrade"
+    abbr -a e "yazi"
 
     # Starship prompt
     starship init fish | source
